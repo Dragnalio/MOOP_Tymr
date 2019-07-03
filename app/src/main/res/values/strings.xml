@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tymr</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
+    <string name="type">HOUR</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+</resources>
